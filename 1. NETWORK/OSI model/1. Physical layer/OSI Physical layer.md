@@ -26,3 +26,11 @@ Bit, symbol
 Transmission and reception of raw bit streams over a physical medium
 @ https://en.wikipedia.org/wiki/OSI_protocols
 
+#-1_physical_layer/-bus
+#-1_physical_layer/-star
+#-1_physical_layer/-ring_topologies
+#-1_physical_layer/-network_topology
+#-1_physical_layer/-coaxial_cable
+#-1_physical_layer/-wireless
+#-1_physical_layer/-optical_fiber
+
